@@ -1,0 +1,112 @@
+[
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Philadelphia 76ers",
+            "Chicago Bulls"
+        ],
+        "home": -188,
+        "away": 156,
+        "o/u": 231.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Indiana Pacers",
+            "Portland Trail Blazers"
+        ],
+        "home": -126,
+        "away": 108,
+        "o/u": 237.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "New Orleans Pelicans",
+            "Brooklyn Nets"
+        ],
+        "home": 158,
+        "away": -188,
+        "o/u": 231.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Toronto Raptors",
+            "New York Knicks"
+        ],
+        "home": -172,
+        "away": 144,
+        "o/u": 218.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Milwaukee Bucks",
+            "Charlotte Hornets"
+        ],
+        "home": -480,
+        "away": 370,
+        "o/u": 232.5
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "San Antonio Spurs",
+            "Detroit Pistons"
+        ],
+        "home": -118,
+        "away": 100,
+        "o/u": 236.5
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Oklahoma City Thunder",
+            "Washington Wizards"
+        ],
+        "home": -120,
+        "away": 102,
+        "o/u": 231.5
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Denver Nuggets",
+            "Cleveland Cavaliers"
+        ],
+        "home": -230,
+        "away": 190,
+        "o/u": 222.5
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Minnesota Timberwolves",
+            "Los Angeles Clippers"
+        ],
+        "home": -158,
+        "away": 134,
+        "o/u": 226.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Phoenix Suns",
+            "Miami Heat"
+        ],
+        "home": 114,
+        "away": -134,
+        "o/u": 214.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Los Angeles Lakers",
+            "Atlanta Hawks"
+        ],
+        "home": 120,
+        "away": -142,
+        "o/u": 242.5
+    }
+]

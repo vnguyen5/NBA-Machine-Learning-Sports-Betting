@@ -1,0 +1,122 @@
+[
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Charlotte Hornets",
+            "Memphis Grizzlies"
+        ],
+        "home": 240,
+        "away": -295,
+        "o/u": 235.5
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Cleveland Cavaliers",
+            "Phoenix Suns"
+        ],
+        "home": -210,
+        "away": 176,
+        "o/u": 216.5
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Philadelphia 76ers",
+            "Indiana Pacers"
+        ],
+        "home": -210,
+        "away": 176,
+        "o/u": 232.5
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Orlando Magic",
+            "Oklahoma City Thunder"
+        ],
+        "home": 100,
+        "away": -118,
+        "o/u": 230.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Toronto Raptors",
+            "Milwaukee Bucks"
+        ],
+        "home": -215,
+        "away": 180,
+        "o/u": 225.5
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "New York Knicks",
+            "San Antonio Spurs"
+        ],
+        "home": -405,
+        "away": 320,
+        "o/u": 225.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Chicago Bulls",
+            "Brooklyn Nets"
+        ],
+        "home": 172,
+        "away": -205,
+        "o/u": 234.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "New Orleans Pelicans",
+            "Houston Rockets"
+        ],
+        "home": -290,
+        "away": 235,
+        "o/u": 230.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Minnesota Timberwolves",
+            "Portland Trail Blazers"
+        ],
+        "home": 102,
+        "away": -120,
+        "o/u": 234.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Sacramento Kings",
+            "Atlanta Hawks"
+        ],
+        "home": -116,
+        "away": -102,
+        "o/u": 245.0
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Golden State Warriors",
+            "Detroit Pistons"
+        ],
+        "home": -290,
+        "away": 235,
+        "o/u": 231.5
+    },
+    {
+        "date": "01/04/2023",
+        "id": [
+            "Los Angeles Lakers",
+            "Miami Heat"
+        ],
+        "home": 270,
+        "away": -335,
+        "o/u": 224.5
+    }
+]

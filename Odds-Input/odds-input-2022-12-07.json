@@ -1,0 +1,112 @@
+[
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Orlando Magic",
+            "Los Angeles Clippers"
+        ],
+        "home": 215,
+        "away": -260,
+        "o/u": 216.5
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "New York Knicks",
+            "Atlanta Hawks"
+        ],
+        "home": -130,
+        "away": 110,
+        "o/u": 232.5
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Brooklyn Nets",
+            "Charlotte Hornets"
+        ],
+        "home": -500,
+        "away": 385,
+        "o/u": 223.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Toronto Raptors",
+            "Los Angeles Lakers"
+        ],
+        "home": -750,
+        "away": 530,
+        "o/u": 228.5
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Chicago Bulls",
+            "Washington Wizards"
+        ],
+        "home": -205,
+        "away": 172,
+        "o/u": 228.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "New Orleans Pelicans",
+            "Detroit Pistons"
+        ],
+        "home": -590,
+        "away": 430,
+        "o/u": 229.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Minnesota Timberwolves",
+            "Indiana Pacers"
+        ],
+        "home": -210,
+        "away": 176,
+        "o/u": 237.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Memphis Grizzlies",
+            "Oklahoma City Thunder"
+        ],
+        "home": -370,
+        "away": 295,
+        "o/u": 233.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Milwaukee Bucks",
+            "Sacramento Kings"
+        ],
+        "home": -260,
+        "away": 215,
+        "o/u": 235.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Utah Jazz",
+            "Golden State Warriors"
+        ],
+        "home": -300,
+        "away": 245,
+        "o/u": 233.0
+    },
+    {
+        "date": "12/07/2022",
+        "id": [
+            "Phoenix Suns",
+            "Boston Celtics"
+        ],
+        "home": -112,
+        "away": -104,
+        "o/u": 230.5
+    }
+]

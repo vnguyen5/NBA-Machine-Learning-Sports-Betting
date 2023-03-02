@@ -1,74 +1,102 @@
 [
     {
+        "date": "12/05/2022",
         "id": [
             "Charlotte Hornets",
             "Los Angeles Clippers"
         ],
-        "home": 144,
-        "away": -172,
-        "o/u": 216.5
+        "home": 210,
+        "away": -280,
+        "o/u": 217.5
     },
     {
+        "date": "12/05/2022",
         "id": [
             "Orlando Magic",
             "Milwaukee Bucks"
         ],
-        "home": 350,
-        "away": -450,
-        "o/u": 225.5
+        "home": 360,
+        "away": -530,
+        "o/u": 223.5
     },
     {
-        "id": [
-            "Toronto Raptors",
-            "Boston Celtics"
-        ],
-        "home": -122,
-        "away": 104,
-        "o/u": 228.0
-    },
-    {
+        "date": "12/05/2022",
         "id": [
             "Atlanta Hawks",
             "Oklahoma City Thunder"
         ],
-        "home": -240,
-        "away": 198,
-        "o/u": 237.5
+        "home": -255,
+        "away": 210,
+        "o/u": 237.0
     },
     {
+        "date": "12/05/2022",
+        "id": [
+            "Toronto Raptors",
+            "Boston Celtics"
+        ],
+        "home": -120,
+        "away": 102,
+        "o/u": 228.5
+    },
+    {
+        "date": "12/05/2022",
         "id": [
             "Houston Rockets",
             "Philadelphia 76ers"
         ],
-        "home": 275,
-        "away": -340,
-        "o/u": 221.5
+        "home": 260,
+        "away": -320,
+        "o/u": 222.5
     },
     {
+        "date": "12/05/2022",
         "id": [
             "Memphis Grizzlies",
             "Miami Heat"
         ],
-        "home": 154,
-        "away": -184,
-        "o/u": 218.5
+        "home": 184,
+        "away": -220,
+        "o/u": 219.0
     },
     {
+        "date": "12/05/2022",
         "id": [
             "Dallas Mavericks",
             "Phoenix Suns"
         ],
-        "home": -154,
-        "away": 130,
-        "o/u": 222.0
+        "home": -164,
+        "away": 138,
+        "o/u": 222.5
     },
     {
+        "date": "12/05/2022",
         "id": [
             "Golden State Warriors",
             "Indiana Pacers"
         ],
-        "home": -500,
-        "away": 385,
-        "o/u": 237.0
+        "home": -770,
+        "away": 540,
+        "o/u": 237.5
+    },
+    {
+        "date": "12/06/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Los Angeles Lakers"
+        ],
+        "home": -180,
+        "away": 152,
+        "o/u": 999
+    },
+    {
+        "date": "12/06/2022",
+        "id": [
+            "Denver Nuggets",
+            "Dallas Mavericks"
+        ],
+        "home": -190,
+        "away": 160,
+        "o/u": 999
     }
 ]

@@ -1,0 +1,42 @@
+[
+    {
+        "date": "12/15/2022",
+        "id": [
+            "Houston Rockets",
+            "Miami Heat"
+        ],
+        "home": 136,
+        "away": -162,
+        "o/u": 218.0
+    },
+    {
+        "date": "12/15/2022",
+        "id": [
+            "Memphis Grizzlies",
+            "Milwaukee Bucks"
+        ],
+        "home": -136,
+        "away": 116,
+        "o/u": 226.5
+    },
+    {
+        "date": "12/15/2022",
+        "id": [
+            "Utah Jazz",
+            "New Orleans Pelicans"
+        ],
+        "home": -102,
+        "away": -116,
+        "o/u": 232.0
+    },
+    {
+        "date": "12/15/2022",
+        "id": [
+            "Los Angeles Clippers",
+            "Phoenix Suns"
+        ],
+        "home": 184,
+        "away": -220,
+        "o/u": 216.5
+    }
+]

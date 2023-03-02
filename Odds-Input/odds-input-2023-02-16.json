@@ -1,0 +1,32 @@
+[
+    {
+        "date": "02/16/2023",
+        "id": [
+            "Chicago Bulls",
+            "Milwaukee Bucks"
+        ],
+        "home": 290,
+        "away": -360,
+        "o/u": 230.0
+    },
+    {
+        "date": "02/16/2023",
+        "id": [
+            "Minnesota Timberwolves",
+            "Washington Wizards"
+        ],
+        "home": -142,
+        "away": 120,
+        "o/u": 235.0
+    },
+    {
+        "date": "02/16/2023",
+        "id": [
+            "Phoenix Suns",
+            "Los Angeles Clippers"
+        ],
+        "home": -104,
+        "away": -112,
+        "o/u": 222.0
+    }
+]

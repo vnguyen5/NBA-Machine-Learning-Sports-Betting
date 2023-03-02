@@ -1,0 +1,52 @@
+[
+    {
+        "date": "03/01/2023",
+        "id": [
+            "Portland Trail Blazers",
+            "New Orleans Pelicans"
+        ],
+        "home": -290,
+        "away": 215,
+        "o/u": 236.5
+    },
+    {
+        "date": "03/02/2023",
+        "id": [
+            "Washington Wizards",
+            "Toronto Raptors"
+        ],
+        "home": -104,
+        "away": -112,
+        "o/u": 999
+    },
+    {
+        "date": "03/02/2023",
+        "id": [
+            "Dallas Mavericks",
+            "Philadelphia 76ers"
+        ],
+        "home": -172,
+        "away": 144,
+        "o/u": 999
+    },
+    {
+        "date": "03/02/2023",
+        "id": [
+            "San Antonio Spurs",
+            "Indiana Pacers"
+        ],
+        "home": 154,
+        "away": -184,
+        "o/u": 238.5
+    },
+    {
+        "date": "03/02/2023",
+        "id": [
+            "Golden State Warriors",
+            "Los Angeles Clippers"
+        ],
+        "home": 118,
+        "away": -138,
+        "o/u": 999
+    }
+]

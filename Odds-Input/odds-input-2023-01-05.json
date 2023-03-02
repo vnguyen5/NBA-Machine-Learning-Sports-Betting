@@ -1,0 +1,112 @@
+[
+    {
+        "date": "01/05/2023",
+        "id": [
+            "Orlando Magic",
+            "Memphis Grizzlies"
+        ],
+        "home": 215,
+        "away": -260,
+        "o/u": 230.0
+    },
+    {
+        "date": "01/05/2023",
+        "id": [
+            "Dallas Mavericks",
+            "Boston Celtics"
+        ],
+        "home": 126,
+        "away": -148,
+        "o/u": 231.5
+    },
+    {
+        "date": "01/05/2023",
+        "id": [
+            "Houston Rockets",
+            "Utah Jazz"
+        ],
+        "home": 230,
+        "away": -280,
+        "o/u": 231.5
+    },
+    {
+        "date": "01/05/2023",
+        "id": [
+            "Denver Nuggets",
+            "Los Angeles Clippers"
+        ],
+        "home": -220,
+        "away": 184,
+        "o/u": 229.0
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Philadelphia 76ers",
+            "Chicago Bulls"
+        ],
+        "home": -198,
+        "away": 166,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Indiana Pacers",
+            "Portland Trail Blazers"
+        ],
+        "home": -120,
+        "away": 102,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "New Orleans Pelicans",
+            "Brooklyn Nets"
+        ],
+        "home": 168,
+        "away": -200,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Toronto Raptors",
+            "New York Knicks"
+        ],
+        "home": -156,
+        "away": 132,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Milwaukee Bucks",
+            "Charlotte Hornets"
+        ],
+        "home": -590,
+        "away": 430,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "San Antonio Spurs",
+            "Detroit Pistons"
+        ],
+        "home": -106,
+        "away": -110,
+        "o/u": 999
+    },
+    {
+        "date": "01/06/2023",
+        "id": [
+            "Phoenix Suns",
+            "Miami Heat"
+        ],
+        "home": -102,
+        "away": -116,
+        "o/u": 999
+    }
+]

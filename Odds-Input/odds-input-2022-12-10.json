@@ -1,0 +1,82 @@
+[
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Miami Heat",
+            "San Antonio Spurs"
+        ],
+        "home": -670,
+        "away": 490,
+        "o/u": 222.5
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Indiana Pacers",
+            "Brooklyn Nets"
+        ],
+        "home": -116,
+        "away": -102,
+        "o/u": 229.0
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Washington Wizards",
+            "Los Angeles Clippers"
+        ],
+        "home": 184,
+        "away": -220,
+        "o/u": 220.0
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Oklahoma City Thunder"
+        ],
+        "home": -225,
+        "away": 188,
+        "o/u": 222.0
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Chicago Bulls",
+            "Dallas Mavericks"
+        ],
+        "home": -126,
+        "away": 108,
+        "o/u": 224.5
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Golden State Warriors",
+            "Boston Celtics"
+        ],
+        "home": 122,
+        "away": -144,
+        "o/u": 237.0
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Denver Nuggets",
+            "Utah Jazz"
+        ],
+        "home": -335,
+        "away": 270,
+        "o/u": 233.0
+    },
+    {
+        "date": "12/10/2022",
+        "id": [
+            "Portland Trail Blazers",
+            "Minnesota Timberwolves"
+        ],
+        "home": -220,
+        "away": 184,
+        "o/u": 230.0
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Charlotte Hornets",
+            "Los Angeles Lakers"
+        ],
+        "home": 102,
+        "away": -130,
+        "o/u": 242.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Cleveland Cavaliers",
+            "Chicago Bulls"
+        ],
+        "home": -178,
+        "away": 138,
+        "o/u": 225.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Indiana Pacers",
+            "Toronto Raptors"
+        ],
+        "home": 120,
+        "away": -154,
+        "o/u": 234.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Philadelphia 76ers",
+            "New Orleans Pelicans"
+        ],
+        "home": -330,
+        "away": 240,
+        "o/u": 230.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Brooklyn Nets",
+            "San Antonio Spurs"
+        ],
+        "home": -750,
+        "away": 530,
+        "o/u": 238.0
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Houston Rockets",
+            "Dallas Mavericks"
+        ],
+        "home": 225,
+        "away": -275,
+        "o/u": 227.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Minnesota Timberwolves",
+            "Denver Nuggets"
+        ],
+        "home": 140,
+        "away": -166,
+        "o/u": 232.0
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Golden State Warriors",
+            "Atlanta Hawks"
+        ],
+        "home": -124,
+        "away": 106,
+        "o/u": 236.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Portland Trail Blazers",
+            "Detroit Pistons"
+        ],
+        "home": -390,
+        "away": 310,
+        "o/u": 231.5
+    },
+    {
+        "date": "01/02/2023",
+        "id": [
+            "Los Angeles Clippers",
+            "Miami Heat"
+        ],
+        "home": -112,
+        "away": -104,
+        "o/u": 218.5
+    },
+    {
+        "date": "01/03/2023",
+        "id": [
+            "Oklahoma City Thunder",
+            "Boston Celtics"
+        ],
+        "home": 300,
+        "away": -375,
+        "o/u": 999
+    },
+    {
+        "date": "01/03/2023",
+        "id": [
+            "Utah Jazz",
+            "Sacramento Kings"
+        ],
+        "home": -130,
+        "away": 110,
+        "o/u": 999
+    }
+]

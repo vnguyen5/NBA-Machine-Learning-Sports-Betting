@@ -4,7 +4,7 @@ from colorama import Style
 import glob
 import os
 from datetime import datetime
-import json
+import json as JSON
 games_header = {
     'user-agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
                   'Chrome/57.0.2987.133 Safari/537.36',
@@ -35,6 +35,9 @@ def get_odds(url):
 def get_json_data(url):
     raw_data = requests.get(url, headers=data_headers)
     json = raw_data.json()
+    # with open('./cock-'+ datetime.today().strftime('%Y-%m-%d') + '.json', 'w', encoding='utf-8') as f:
+    #     JSON.dump(json, f, ensure_ascii=False, indent=4)
+    # input('asdf')
     return json.get('resultSets')
 
 
@@ -71,7 +74,7 @@ def create_json_input(games):
             }
         )
     with open('./Odds-Input/odds-input-'+ datetime.today().strftime('%Y-%m-%d') + '.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=4)
+        JSON.dump(output, f, ensure_ascii=False, indent=4)
 
 def get_latest_file(path):
     list_of_files = glob.glob(f'{path}/*') # * means all if need specific format then *.csv
@@ -80,6 +83,6 @@ def get_latest_file(path):
 
 def team_print(team, ml):
     if int(ml) > 0:
-        return team + Style.RESET_ALL + '(+' + ml + ')'
+        return team + Style.RESET_ALL + '(+' + str(ml) + ')'
     else:
-        return team + Style.RESET_ALL + '(' + ml + ')'
+        return team + Style.RESET_ALL + '(' + str(ml) + ')'
