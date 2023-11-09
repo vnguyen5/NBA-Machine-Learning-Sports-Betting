@@ -1,0 +1,52 @@
+[
+    {
+        "date": "12/13/2022",
+        "id": [
+            "Philadelphia 76ers",
+            "Sacramento Kings"
+        ],
+        "home": -190,
+        "away": 160,
+        "o/u": 229.0
+    },
+    {
+        "date": "12/13/2022",
+        "id": [
+            "Milwaukee Bucks",
+            "Golden State Warriors"
+        ],
+        "home": -162,
+        "away": 136,
+        "o/u": 234.0
+    },
+    {
+        "date": "12/13/2022",
+        "id": [
+            "Houston Rockets",
+            "Phoenix Suns"
+        ],
+        "home": 198,
+        "away": -240,
+        "o/u": 224.0
+    },
+    {
+        "date": "12/13/2022",
+        "id": [
+            "Utah Jazz",
+            "New Orleans Pelicans"
+        ],
+        "home": 100,
+        "away": -118,
+        "o/u": 232.5
+    },
+    {
+        "date": "12/13/2022",
+        "id": [
+            "Los Angeles Lakers",
+            "Boston Celtics"
+        ],
+        "home": 132,
+        "away": -156,
+        "o/u": 235.5
+    }
+]

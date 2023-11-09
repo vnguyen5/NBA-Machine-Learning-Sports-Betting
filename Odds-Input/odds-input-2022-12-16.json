@@ -1,0 +1,102 @@
+[
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Charlotte Hornets",
+            "Atlanta Hawks"
+        ],
+        "home": -156,
+        "away": 132,
+        "o/u": 240.5
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Detroit Pistons",
+            "Sacramento Kings"
+        ],
+        "home": 180,
+        "away": -215,
+        "o/u": 236.5
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Boston Celtics",
+            "Orlando Magic"
+        ],
+        "home": -850,
+        "away": 590,
+        "o/u": 225.0
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Toronto Raptors",
+            "Brooklyn Nets"
+        ],
+        "home": 100,
+        "away": -118,
+        "o/u": 225.0
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Indiana Pacers"
+        ],
+        "home": -320,
+        "away": 260,
+        "o/u": 222.5
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Philadelphia 76ers",
+            "Golden State Warriors"
+        ],
+        "home": -460,
+        "away": 360,
+        "o/u": 221.0
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Chicago Bulls",
+            "New York Knicks"
+        ],
+        "home": -138,
+        "away": 118,
+        "o/u": 225.5
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Oklahoma City Thunder",
+            "Minnesota Timberwolves"
+        ],
+        "home": -126,
+        "away": 108,
+        "o/u": 233.0
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Dallas Mavericks",
+            "Portland Trail Blazers"
+        ],
+        "home": -174,
+        "away": 146,
+        "o/u": 225.5
+    },
+    {
+        "date": "12/16/2022",
+        "id": [
+            "Los Angeles Lakers",
+            "Denver Nuggets"
+        ],
+        "home": 102,
+        "away": -120,
+        "o/u": 237.5
+    }
+]

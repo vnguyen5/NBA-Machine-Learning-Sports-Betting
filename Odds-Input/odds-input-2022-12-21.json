@@ -1,0 +1,112 @@
+[
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Milwaukee Bucks"
+        ],
+        "home": -134,
+        "away": 114,
+        "o/u": 216.5
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Philadelphia 76ers",
+            "Detroit Pistons"
+        ],
+        "home": -650,
+        "away": 480,
+        "o/u": 223.0
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Atlanta Hawks",
+            "Chicago Bulls"
+        ],
+        "home": -225,
+        "away": 188,
+        "o/u": 236.0
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Boston Celtics",
+            "Indiana Pacers"
+        ],
+        "home": -460,
+        "away": 360,
+        "o/u": 233.0
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Brooklyn Nets",
+            "Golden State Warriors"
+        ],
+        "home": -770,
+        "away": 540,
+        "o/u": 224.5
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "New York Knicks",
+            "Toronto Raptors"
+        ],
+        "home": -120,
+        "away": 102,
+        "o/u": 217.5
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Minnesota Timberwolves",
+            "Dallas Mavericks"
+        ],
+        "home": 130,
+        "away": -154,
+        "o/u": 230.0
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Houston Rockets",
+            "Orlando Magic"
+        ],
+        "home": 100,
+        "away": -118,
+        "o/u": 223.5
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Oklahoma City Thunder",
+            "Portland Trail Blazers"
+        ],
+        "home": 132,
+        "away": -156,
+        "o/u": 235.5
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Sacramento Kings",
+            "Los Angeles Lakers"
+        ],
+        "home": -260,
+        "away": 215,
+        "o/u": 241.0
+    },
+    {
+        "date": "12/21/2022",
+        "id": [
+            "Los Angeles Clippers",
+            "Charlotte Hornets"
+        ],
+        "home": -350,
+        "away": 280,
+        "o/u": 226.0
+    }
+]

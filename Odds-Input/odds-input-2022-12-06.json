@@ -1,0 +1,32 @@
+[
+    {
+        "date": "12/06/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Los Angeles Lakers"
+        ],
+        "home": -210,
+        "away": 176,
+        "o/u": 225.5
+    },
+    {
+        "date": "12/06/2022",
+        "id": [
+            "Miami Heat",
+            "Detroit Pistons"
+        ],
+        "home": -280,
+        "away": 230,
+        "o/u": 220.0
+    },
+    {
+        "date": "12/06/2022",
+        "id": [
+            "Denver Nuggets",
+            "Dallas Mavericks"
+        ],
+        "home": -200,
+        "away": 168,
+        "o/u": 222.5
+    }
+]

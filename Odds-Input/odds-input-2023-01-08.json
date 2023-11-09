@@ -1,0 +1,92 @@
+[
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Detroit Pistons",
+            "Philadelphia 76ers"
+        ],
+        "home": 180,
+        "away": -215,
+        "o/u": 229.5
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Toronto Raptors",
+            "Portland Trail Blazers"
+        ],
+        "home": -154,
+        "away": 130,
+        "o/u": 226.5
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Indiana Pacers",
+            "Charlotte Hornets"
+        ],
+        "home": -210,
+        "away": 176,
+        "o/u": 239.5
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Miami Heat",
+            "Brooklyn Nets"
+        ],
+        "home": 138,
+        "away": -164,
+        "o/u": 222.0
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Memphis Grizzlies",
+            "Utah Jazz"
+        ],
+        "home": -375,
+        "away": 300,
+        "o/u": 236.0
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Oklahoma City Thunder",
+            "Dallas Mavericks"
+        ],
+        "home": -164,
+        "away": 138,
+        "o/u": 227.5
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Houston Rockets",
+            "Minnesota Timberwolves"
+        ],
+        "home": 108,
+        "away": -126,
+        "o/u": 230.0
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Phoenix Suns",
+            "Cleveland Cavaliers"
+        ],
+        "home": 160,
+        "away": -190,
+        "o/u": 214.0
+    },
+    {
+        "date": "01/08/2023",
+        "id": [
+            "Los Angeles Clippers",
+            "Atlanta Hawks"
+        ],
+        "home": -164,
+        "away": 138,
+        "o/u": 234.5
+    }
+]

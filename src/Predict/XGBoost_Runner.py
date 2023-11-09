@@ -35,6 +35,7 @@ def xgb_runner(data, todays_games_uo, frame_ml, games, home_team_odds, away_team
         ou_predictions_array.append(xgb_uo.predict(xgb.DMatrix(np.array([row]))))
 
     count = 0
+
     for game in games:
         home_team = game[0]
         away_team = game[1]
@@ -42,6 +43,7 @@ def xgb_runner(data, todays_games_uo, frame_ml, games, home_team_odds, away_team
         under_over = int(np.argmax(ou_predictions_array[count]))
         winner_confidence = ml_predictions_array[count]
         un_confidence = ou_predictions_array[count]
+
         if winner == 1:
             winner_confidence = round(winner_confidence[0][1] * 100, 1)
             if under_over == 0:
@@ -88,5 +90,6 @@ def xgb_runner(data, todays_games_uo, frame_ml, games, home_team_odds, away_team
         else:
             print(away_team + ' EV: ' + Fore.RED + str(ev_away) + Style.RESET_ALL)
         count += 1
+        print("--------------------------------------------------")
 
     deinit()

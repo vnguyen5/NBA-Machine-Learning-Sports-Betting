@@ -1,0 +1,42 @@
+[
+    {
+        "date": "01/17/2023",
+        "id": [
+            "Milwaukee Bucks",
+            "Toronto Raptors"
+        ],
+        "home": -196,
+        "away": 164,
+        "o/u": 224.0
+    },
+    {
+        "date": "01/17/2023",
+        "id": [
+            "San Antonio Spurs",
+            "Brooklyn Nets"
+        ],
+        "home": 184,
+        "away": -220,
+        "o/u": 232.0
+    },
+    {
+        "date": "01/17/2023",
+        "id": [
+            "Denver Nuggets",
+            "Portland Trail Blazers"
+        ],
+        "home": -255,
+        "away": 205,
+        "o/u": 238.0
+    },
+    {
+        "date": "01/17/2023",
+        "id": [
+            "Los Angeles Clippers",
+            "Philadelphia 76ers"
+        ],
+        "home": -130,
+        "away": 110,
+        "o/u": 223.0
+    }
+]

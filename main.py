@@ -7,7 +7,7 @@ from src.Utils.tools import get_json_data, to_data_frame, get_todays_games_json,
 import json
 from src.Utils.odds_generation import generate_odds
 
-todays_games_url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2022/scores/00_todays_scores.json'
+todays_games_url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2023/scores/00_todays_scores.json'
 data_url = 'https://stats.nba.com/stats/leaguedashteamstats?' \
            'Conference=&DateFrom=&DateTo=&Division=&GameScope=&' \
            'GameSegment=&LastNGames=0&LeagueID=00&Location=&' \
@@ -25,20 +25,22 @@ def createTodaysGames(games, df):
     away_team_odds = []
 
     input_json = json.load(open(get_latest_file('./Odds-Input')))
-    # print(input_json)
     for game in games:
         home_team = game[0]
         away_team = game[1]
-
         json_obj = next((x for x in input_json if [team_index_current.get(x['id'][0]), team_index_current.get(
             x['id'][1])] == [team_index_current.get(home_team), team_index_current.get(away_team)]), None)
 
         # keep these for manual inputasdfas
+        print(input_json)
         if input_json is None or json_obj is None:
-            todays_games_uo.append(
-                input(home_team + ' vs ' + away_team + ': '))
-            home_team_odds.append(input(home_team + ' odds: '))
-            away_team_odds.append(input(away_team + ' odds: '))
+            # todays_games_uo.append(
+            #     input(home_team + ' vs ' + away_team + ': '))
+            # home_team_odds.append(input(home_team + ' odds: '))
+            # away_team_odds.append(input(away_team + ' odds: '))
+            todays_games_uo.append(100)
+            home_team_odds.append(100)
+            away_team_odds.append(100)
         else:
             todays_games_uo.append(str(json_obj['o/u']))
             home_team_odds.append(str(json_obj['home']))
@@ -53,7 +55,7 @@ def createTodaysGames(games, df):
     games_data_frame = games_data_frame.T
 
     frame_ml = games_data_frame.drop(
-        columns=['TEAM_ID', 'CFID', 'CFPARAMS', 'TEAM_NAME'])
+        columns=['TEAM_ID', 'TEAM_NAME'])
     data = frame_ml.values
     data = data.astype(float)
 

@@ -1,0 +1,62 @@
+[
+    {
+        "date": "12/08/2022",
+        "id": [
+            "Miami Heat",
+            "Los Angeles Clippers"
+        ],
+        "home": -270,
+        "away": 220,
+        "o/u": 212.5
+    },
+    {
+        "date": "12/08/2022",
+        "id": [
+            "San Antonio Spurs",
+            "Houston Rockets"
+        ],
+        "home": 108,
+        "away": -126,
+        "o/u": 230.0
+    },
+    {
+        "date": "12/08/2022",
+        "id": [
+            "Portland Trail Blazers",
+            "Denver Nuggets"
+        ],
+        "home": 100,
+        "away": -118,
+        "o/u": 227.5
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Charlotte Hornets",
+            "New York Knicks"
+        ],
+        "home": 148,
+        "away": -176,
+        "o/u": 999
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Orlando Magic",
+            "Toronto Raptors"
+        ],
+        "home": 240,
+        "away": -295,
+        "o/u": 999
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Philadelphia 76ers",
+            "Los Angeles Lakers"
+        ],
+        "home": -154,
+        "away": 130,
+        "o/u": 999
+    }
+]

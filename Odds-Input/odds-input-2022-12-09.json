@@ -1,0 +1,102 @@
+[
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Charlotte Hornets",
+            "New York Knicks"
+        ],
+        "home": 138,
+        "away": -164,
+        "o/u": 224.0
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Indiana Pacers",
+            "Washington Wizards"
+        ],
+        "home": -174,
+        "away": 144,
+        "o/u": 233.5
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Orlando Magic",
+            "Toronto Raptors"
+        ],
+        "home": 300,
+        "away": -375,
+        "o/u": 222.5
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Brooklyn Nets",
+            "Atlanta Hawks"
+        ],
+        "home": -290,
+        "away": 235,
+        "o/u": 230.0
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Cleveland Cavaliers",
+            "Sacramento Kings"
+        ],
+        "home": -162,
+        "away": 136,
+        "o/u": 222.0
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Philadelphia 76ers",
+            "Los Angeles Lakers"
+        ],
+        "home": -190,
+        "away": 160,
+        "o/u": 227.5
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Memphis Grizzlies",
+            "Detroit Pistons"
+        ],
+        "home": -550,
+        "away": 410,
+        "o/u": 227.5
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "New Orleans Pelicans",
+            "Phoenix Suns"
+        ],
+        "home": 106,
+        "away": -124,
+        "o/u": 228.0
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Utah Jazz",
+            "Minnesota Timberwolves"
+        ],
+        "home": -126,
+        "away": 108,
+        "o/u": 235.0
+    },
+    {
+        "date": "12/09/2022",
+        "id": [
+            "Dallas Mavericks",
+            "Milwaukee Bucks"
+        ],
+        "home": -106,
+        "away": -112,
+        "o/u": 224.5
+    }
+]

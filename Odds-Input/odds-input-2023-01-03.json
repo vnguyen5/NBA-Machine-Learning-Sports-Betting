@@ -1,0 +1,32 @@
+[
+    {
+        "date": "01/03/2023",
+        "id": [
+            "Oklahoma City Thunder",
+            "Boston Celtics"
+        ],
+        "home": 300,
+        "away": -375,
+        "o/u": 233.0
+    },
+    {
+        "date": "01/03/2023",
+        "id": [
+            "Milwaukee Bucks",
+            "Washington Wizards"
+        ],
+        "home": -300,
+        "away": 245,
+        "o/u": 229.0
+    },
+    {
+        "date": "01/03/2023",
+        "id": [
+            "Utah Jazz",
+            "Sacramento Kings"
+        ],
+        "home": -164,
+        "away": 138,
+        "o/u": 242.5
+    }
+]
