@@ -1,0 +1,22 @@
+[
+    {
+        "date": "11/09/2023",
+        "id": [
+            "Indiana Pacers",
+            "Milwaukee Bucks"
+        ],
+        "home": 116,
+        "away": -136,
+        "o/u": 241.5
+    },
+    {
+        "date": "11/09/2023",
+        "id": [
+            "Orlando Magic",
+            "Atlanta Hawks"
+        ],
+        "home": 138,
+        "away": -164,
+        "o/u": 231.0
+    }
+]

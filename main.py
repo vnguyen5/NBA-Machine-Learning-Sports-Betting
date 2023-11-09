@@ -7,7 +7,7 @@ from src.Utils.tools import get_json_data, to_data_frame, get_todays_games_json,
 import json
 from src.Utils.odds_generation import generate_odds
 
-todays_games_url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2022/scores/00_todays_scores.json'
+todays_games_url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2023/scores/00_todays_scores.json'
 data_url = 'https://stats.nba.com/stats/leaguedashteamstats?' \
            'Conference=&DateFrom=&DateTo=&Division=&GameScope=&' \
            'GameSegment=&LastNGames=0&LeagueID=00&Location=&' \
@@ -32,6 +32,7 @@ def createTodaysGames(games, df):
             x['id'][1])] == [team_index_current.get(home_team), team_index_current.get(away_team)]), None)
 
         # keep these for manual inputasdfas
+        print(input_json)
         if input_json is None or json_obj is None:
             # todays_games_uo.append(
             #     input(home_team + ' vs ' + away_team + ': '))
